@@ -1,6 +1,7 @@
 # include<stdio.h>
 main()
 {
-    printf("hello, world");
+    printf("Git");
+    printf("Tooling");
     return 0;
 }
